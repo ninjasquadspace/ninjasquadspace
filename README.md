@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm @Mr.Marouan From Ninja Squad.</h1>
+<h1 align="center">Hi 👋, We're From Ninja Squad.</h1>
 <h3 align="center">We are a Digital Agency, Help You To Grow Your Business Online.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjasquadspace&label=Profile%20views&color=0e75b6&style=flat" alt="ninjasquadspace" /> </p>
 
@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **CyberSecurity, Back-End Developement, Mobile App Developement.**
 
 - 📫 How to reach me **Ninjaagency@proton.me**
-- 👨‍💻 All of my projects are available at **https://ninjasquadspace.github.io/Our_Website/**
-- 📱 NinjaSquad App : https://marouananouar.github.io/landingpage01/
+- 👨‍💻 All of my projects are available at **https://ninjasquadspace.github.io/store**
+- 📱 NinjaSquad App : **https://ninjasquadspace.github.io/landingpage**
 - 📄 Know about my experiences **https://linktr.ee/ninjasquad.agency**
 - ⚡ Fun fact **I Think I am Funny**
 
