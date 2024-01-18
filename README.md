@@ -85,7 +85,8 @@
 </p>
 <p align="center">
   <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
-  <img src="https://github.com/ninjasquadspace/ninjasquadspace/assets/129605548/1a8ea7c0-7718-45df-811c-164de4f88760" alt="RoadMap" />
+  <img 
+src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbkT0I9of8q1JiwKu83upr66Wi3xeNIBGLykDS2mh5AknXnrDgKOEouYmecEAVrKVcMOfKdjRykk3HVDlmKvU5EMK_7b7nPWxPSZKdmSWCQhsNtL2GtuZvwzNPiWz7UESF_QjqjAxzHTfG6EGd3fL9kGPN1fhcbiqNqGjLmh9T6BSWA8gK-PRhOZRW5TW8/s1920/hacking.png" alt="RoadMap" />
   <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
 </p>
 
@@ -134,7 +135,7 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'>
-  <img src="https://github.com/ninjasquadspace/ninjasquadspace/assets/129605548/c655d543-2ff9-4c0a-9cbc-d530a497118b" alt="RoadMap" />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiah1MVgR3UyGpZgGxIVKnwwMyYPbQ3BVGo3f9ZT-7KNKpo_pqVIqaLGIrSJj3hw5tmEON16VBU5ImW7o_HZoOCPtzIGjNY_9DnMus3_irOvHgk8IZEAdiDbJ-RbgbEAe710tJEQTPR-FB8l5mBplyQMjGlgGU9tqPjXk-RbRB3D-q1HfaUuCOUo1uZ3LfW/s786/backend.png" alt="RoadMap" />
 <img src="https://media4.giphy.com/media/EC1gl2A5oplKMAorkT/200w.webp?cid=ecf05e47dmuglxd82p89bszzcgznttrnihe48qgomuxghrpv&ep=v1_gifs_search&rid=200w.webp&ct=g" width='100%'></p>
 <!----    End Back-end Skils  ---->
 </div><h3 align="left">Stars</h3>
